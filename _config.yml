@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sameer A. Sonar"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sameer A. Sonar"
 description              : &description "personal description"
