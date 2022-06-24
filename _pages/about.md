@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Sameer A. Sonar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Sameer, a PhD student at the [Institute for Quantum Information and Matter](https://iqim.caltech.edu/) at [Caltech](https://www.caltech.edu/).
+PhD candidate at the [Institute for Quantum Information and Matter](https://iqim.caltech.edu/) at [Caltech](https://www.caltech.edu/).
 
 ## My work and research
 I use qualitative, quantitative, and computational methods to holistically investigate socio-technical systems of technology and knowledge production. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. Most of my previous work has focused on [Wikipedia](http://enwp.org/Wikipedia), where I've studied the people and algorithms that produce and maintain an open encyclopedia. I’ve also studied scientific research networks and projects, including the [Long-Term Ecological Research Network](https://lternet.edu/), the [Open Science Grid](https://www.opensciencegrid.org/), and the [Moore-Sloan Data Science Environments](http://msdse.org/). I study topics including newcomer socialization, cooperation and conflict, community governance, specialization and professionalization, information verification and quality control, hackathons and community workshops, the roles of support staff and technicians, bias and discrimination, and diversity and inclusion. I also often focus on how these issues all intersect with and are embedded in the design of software and automated systems.
