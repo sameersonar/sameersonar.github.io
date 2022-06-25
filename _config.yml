@@ -83,7 +83,7 @@ author:
   name             : "Sameer A. Sonar"
   avatar           : "profile.png"
   bio              : ""
-  location         : "1200 E California Blvd, Pasadena, CA 91125"
+  location         : "1200 E California Blvd, Pasadena"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_Bs86pIAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
