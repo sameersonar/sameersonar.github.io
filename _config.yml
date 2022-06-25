@@ -83,7 +83,7 @@ author:
   name             : "Sameer A. Sonar"
   avatar           : "profile.png"
   bio              : ""
-  location         : "1200 E California Blvd, Pasadena"
+  location         : "1200 E California Blvd, Pasadena, CA 91106"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_Bs86pIAAAAJ&hl=en"
@@ -164,7 +164,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
