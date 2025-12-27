@@ -315,3 +315,8 @@ breadcrumbs: false
 footer:
   links: false
 
+atom_feed:
+  hide: true
+
+sitemap: false
+
