@@ -312,7 +312,6 @@ header:
 
 breadcrumbs: false
 
-footer: false
 
 atom_feed:
   hide: true
