@@ -313,7 +313,7 @@ header:
 breadcrumbs: false
 
 footer: false
-  links: []
+  links: false
 
 atom_feed:
   hide: true
